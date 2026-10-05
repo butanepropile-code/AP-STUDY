@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://butanepropile-code.github.io/Download-Fromhere/sitemap.xml
